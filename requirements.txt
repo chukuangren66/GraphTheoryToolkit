@@ -1,0 +1,4 @@
+networkx>=2.5
+matplotlib>=3.3
+docplex>=2.22
+docplex.cp>=22.1 
