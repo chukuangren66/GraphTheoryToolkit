@@ -41,8 +41,8 @@ GraphControlNumberSolver 是一个集成了多种图生成算法和控制数计�
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/GraphControlNumberSolver.git
-cd GraphControlNumberSolver
+git clone https://github.com/chukuangren66/GraphTheoryToolkit.git
+cd GraphTheoryToolkit
 ```
 
 2. 安装依赖：
