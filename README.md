@@ -108,7 +108,7 @@ GraphControlNumberSolver/
 如有任何问题或建议，请通过以下方式联系：
 
 - 提交Issue
-- 发送邮件至：[your-email@example.com]
+- 发送邮件至：[ly040328@mail.nwpu.edu.cn]
 
 ## 致谢
 
